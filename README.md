@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-I'm Alexander, a Data Scientist with mixed experience of Econometrician, ML Engineer and Data Analyst who is passionate
-about developing machine learning projects to make our world a slightly better place.
+I'm Alexander, a Data Scientist with mixed experience as an Econometrician, ML Engineer, and Data Analyst who is passionate about developing machine learning projects to make our world a slightly better place.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander-pv&label=Profile%20views&color=0e75b6&style=flat" alt="alexander-pv" /> </p>
 
