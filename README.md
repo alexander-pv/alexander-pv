@@ -1,9 +1,7 @@
-### Hi there 👋
 
-I'm Alexander, a data scientist with mixed experience as an econometrician, ML engineer, and data analyst who is passionate about developing machine learning projects to make our world a slightly better place.
+Hello, data wanderer! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander-pv&label=Profile%20views&color=0e75b6&style=flat" alt="alexander-pv" /> </p>
-
+You can learn more about me in my personal website https://alexander-pv.github.io
 
 - 📫 How to reach me: [Twitter](https://twitter.com/alralp), [LinkedIn](https://www.linkedin.com/in/alrap/), [Mail](mailto:alr.popkov@gmail.com)
 
@@ -21,5 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://hit.yhype.me/github/profile?user_id=30959770)
