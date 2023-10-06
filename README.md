@@ -1,7 +1,7 @@
 
 Hello, data wanderer! 👋
 
-You can learn more about me in my personal website https://alexander-pv.github.io
+You can learn about me in my personal website https://alexander-pv.github.io
 
 - 📫 How to reach me: [Twitter](https://twitter.com/alralp), [LinkedIn](https://www.linkedin.com/in/alrap/), [Mail](mailto:alr.popkov@gmail.com)
 
